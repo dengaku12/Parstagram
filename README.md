@@ -9,7 +9,7 @@ Time spent: **7.5** hours spent in total
 The following **required** functionality is completed:
 
 - [x] User can view the last 20 posts submitted to "Instagram".
-- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos from camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
 - [x] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 The following **optional** features are implemented:
@@ -34,14 +34,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/a/kCNS9qf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='parstagram walkthrough2.gif' title='Video Walkthrough' width = 825 height = 650 alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+I ran into a bit of an issue when trying to implement pull to refresh, since it's a little different with fragments. 
+I was eventually able to figure it out though.
 
 ## User Stories Part 1
 
